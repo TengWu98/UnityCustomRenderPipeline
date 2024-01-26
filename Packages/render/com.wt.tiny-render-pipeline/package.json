@@ -1,0 +1,12 @@
+{
+    "name": "com.wt.tiny-render-pipeline",
+    "description": "TinyRenderPipeline",
+    "version": "0.0.1",
+    "displayName": "Tiny RenderPipeline",
+    "dependencies": {
+		"com.unity.mathematics": "1.2.6"
+    },
+   "keywords": [
+		
+    ]
+}

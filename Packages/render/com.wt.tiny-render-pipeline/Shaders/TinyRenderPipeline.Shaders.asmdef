@@ -1,0 +1,16 @@
+{
+    "name": "TinyRenderPipeline.Shaders",
+    "rootNamespace": "",
+    "references": [
+        "GUID:46a67ded66a63de48b9329c593fc08de"
+    ],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}
